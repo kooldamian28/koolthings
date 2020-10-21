@@ -5,5 +5,5 @@ Here you will be able to find many kool things that I have made. It will surely 
 WAP = Write a program
 
 ## Easy access!
-I've make a github page at https://kooldamian28.github.io/koolthings/
-Moreover, this repo uses the most copyleft license (as per https://choosealicense.com/) that is, the GNU AGPL v3 LICENSE. You can see the license here: https://choosealicense.com/licenses/agpl-3.0/
+I've make a github page at <a href="https://kooldamian28.github.io/koolthings">kooldamian28.github.io/koolthings</a>
+Moreover, this repo uses the most copyleft license (as per <a href="https://choosealicense.com">choosealicense.com</a>) that is, the <a href="https://www.gnu.org/licenses/agpl-3.0.html">GNU AGPL v3 LICENSE</a>. 
