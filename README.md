@@ -6,3 +6,4 @@ WAP = Write a program
 
 ## Easy access!
 I've make a github page at https://kooldamian28.github.io/koolthings/
+Moreover, this repo uses the most copyleft license (as per https://choosealicense.com/) that is, the GNU AGPL v3 LICENSE. You can see the license here: https://choosealicense.com/licenses/agpl-3.0/
