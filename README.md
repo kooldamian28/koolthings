@@ -3,6 +3,23 @@ Here you will be able to find many kool things that I have made. It will surely 
 
 # Calculators
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/All-in-one calulator.py">All-in-one calculator</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Area of a rectangle.py">Area of a rectangle</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Area of a sphere.py">Area of a sphere</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Area of a triangle.py">Area of a triangle</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Perimeter of a rectangle.py">Perimeter of a rectangle</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Power of a number.py">Power of a number</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to enter time in minutes and print it in the hours and minutes format.py">WAP to enter time in minutes and print it in the hours and minutes format</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to read 2 numbers and store sum in num3 and product in num4..py">WAP to read 2 numbers and store sum in num3 and product in num4.</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Integer.py">Integer</a>
+
+# KoOoOoOoL!
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Code to generate a spinning Doughnut - Deobfuscated.c">Code to generate a spinning Doughnut - Deobfuscated</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Doughnut Shaped Code to generate a spinning Doughnut.c">Doughnut Shaped Code to generate a spinning Doughnut</a>
+
+# <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4404d81137863.5cf645f61a289.png">Hello.</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello.cpp">Hello.</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello">Hello.</a>
+
 # Terminology
 WAP = Write a program, not <a href="https://youtu.be/Wc5IbN4xw70">this.</a>
 
