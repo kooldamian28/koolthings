@@ -25,7 +25,7 @@ Here you will be able to find many kool things that I have made. It will surely 
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Doughnut Shaped Code to generate a spinning Doughnut.c">Doughnut Shaped Code to generate a spinning Doughnut</a>
 
-# <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4404d81137863.5cf645f61a289.png">Hello.</a>
+# <a href="https://raw.githubusercontent.com/kooldamian28/koolthings/main/assets/Hello..png">Hello.</a>
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello.cpp">Hello.</a>
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello">Hello.</a>
