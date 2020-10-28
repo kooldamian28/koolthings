@@ -1,7 +1,7 @@
 # koolthings
 Here you will be able to find many kool things that I have made. It will surely make you wanting for more! Well, literally everything you can think of. All programs you may be asked to write.
 
-# Calculators
+## Calculators
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/All-in-one calulator.py">All-in-one calculator</a>
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Area of a rectangle.py">Area of a rectangle</a>
@@ -20,12 +20,12 @@ Here you will be able to find many kool things that I have made. It will surely 
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Integer.py">Integer</a>
 
-# KoOoOoOoL!
+## KoOoOoOoL!
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Code to generate a spinning Doughnut - Deobfuscated.c">Code to generate a spinning Doughnut - Deobfuscated</a>
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Doughnut Shaped Code to generate a spinning Doughnut.c">Doughnut Shaped Code to generate a spinning Doughnut</a>
 
-# <a href="https://raw.githubusercontent.com/kooldamian28/koolthings/main/assets/Hello..png">Hello.</a>
+## <a href="https://raw.githubusercontent.com/kooldamian28/koolthings/main/assets/Hello..png">Hello.</a>
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello.cpp">Hello.</a>
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/hello">Hello.</a>
