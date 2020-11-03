@@ -21,7 +21,7 @@ Here you will be able to find many kool things that I have made. It will surely 
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Integer.py">Integer</a>
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Check whether leap year or not.py">Check whether leap year or not</a>
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Check%20whether%20leap%20year%20or%20not.py">Check whether leap year or not</a>
 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to accept a number from the user and display whether it is an even number or an odd number.py">WAP to accept a number from the user and display whether it is an even number or an odd number</a>
 
