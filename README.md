@@ -15,17 +15,17 @@ Here you will be able to find many kool things that I have made. It will surely 
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Power of a number.py">Power of a number</a>
 
 ## Utilities
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to enter time in minutes and print it in the hours and minutes format.py">WAP to enter time in minutes and print it in the hours and minutes format</a>
+WAP to enter time in minutes and print it in the hours and minutes format
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to read 2 numbers and store sum in num3 and product in num4..py">WAP to read 2 numbers and store sum in num3 and product in num4.</a>
+WAP to read 2 numbers and store sum in num3 and product in num4.
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Integer.py">Integer</a>
+Integer
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Check%20whether%20leap%20year%20or%20not.py">Check whether leap year or not</a>
+Check whether leap year or not
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to accept a number from the user and display whether it is an even number or an odd number.py">WAP to accept a number from the user and display whether it is an even number or an odd number</a>
+WAP to accept a number from the user and display whether it is an even number or an odd number
 
-<a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/WAP to accept percentage of a student and display the grade accordingly.py">WAP to accept percentage of a student and display the grade accordingly</a>
+WAP to accept percentage of a student and display the grade accordingly
 
 ## KoOoOoOoL!
 <a href="https://cdn.jsdelivr.net/gh/kooldamian28/koolthings/kool/Code to generate a spinning Doughnut - Deobfuscated.c">Code to generate a spinning Doughnut - Deobfuscated</a>
