@@ -1,7 +1,7 @@
 # User input
 percentage = float(input("Enter your marks: "))
 
-# Program operation
+# Program operation & Computer output
 if (percentage >= 90):
     print("Your grade is A1 !")
 elif (percentage >= 80):
