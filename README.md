@@ -5,4 +5,4 @@ Here you will be able to find many kool things that I have made. It will surely 
 WAP = Write a program, not <a href="https://youtu.be/Wc5IbN4xw70">this.</a>
 
 # Easy access!
-I've made a github page at <a href="https://kooldamian28.github.io/koolthings">kooldamian28.github.io/koolthings</a>
+I've made a github page at <a href="https://kooldamian28.github.io/koolthings">kooldamian28.github.io/koolthings</a>!
